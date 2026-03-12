@@ -1,0 +1,4 @@
+name: demo_dealer_ai
+type: duckdb
+options:
+  filename: "../../data/DemoDealerAI.duckdb"
