@@ -3,7 +3,7 @@
         <h1 class="text-4xl font-black text-slate-800 tracking-tight mb-2">Predictive Sales Forecast</h1>
         <p class="text-slate-500 text-lg">Harness the power of Predictive Analytics. This report uses historical data (up to Feb 2026) and Simple Linear Regression to forecast your sales volume for the rest of the year (10 Months).</p>
     </div>
-    <a href="/" title="Back to Homepage" class="group flex items-center justify-center p-3 bg-white hover:bg-gradient-to-br hover:from-blue-500 hover:to-indigo-600 text-slate-400 hover:text-white rounded-2xl shadow-sm hover:shadow-xl border border-slate-200 hover:border-transparent transition-all duration-300 transform hover:-translate-y-1 hover:rotate-3 backdrop-blur-sm z-50">
+    <a href="/advanced-analytics" title="Back to Advanced Analytics" class="group flex items-center justify-center p-3 bg-white hover:bg-gradient-to-br hover:from-emerald-500 hover:to-teal-600 text-slate-400 hover:text-white rounded-2xl shadow-sm hover:shadow-xl border border-slate-200 hover:border-transparent transition-all duration-300 transform hover:-translate-y-1 hover:rotate-3 backdrop-blur-sm z-50">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 transition-transform group-hover:-translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
             <path stroke-linecap="round" stroke-linejoin="round" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
         </svg>
